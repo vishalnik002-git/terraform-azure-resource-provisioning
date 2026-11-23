@@ -1,0 +1,6 @@
+# Sample input variables for terraform-azure-resource-provisioning
+resource_group_name      = "rg-provisioning-dev"
+location                 = "eastus"
+storage_account_name     = "stprovdev01"
+account_tier             = "Standard"
+account_replication_type = "LRS"
